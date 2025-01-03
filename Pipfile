@@ -9,6 +9,7 @@ flask-wtf = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 python-decouple = "*"
+flask-login = "*"
 
 [dev-packages]
 
